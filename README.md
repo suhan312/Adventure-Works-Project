@@ -9,11 +9,13 @@ Power BI → Data Modeling & Interactive Dashboards.
 Excel → Data Cleaning & Preprocessing.
 Tableau → Advanced Visual Analytics & Storytelling.
 PowerPoint → Business presentation
+
 📂 Dataset Description
 The dataset follows a star schema:
 
 Fact Table: Sales
 Dimension Tables: Customer, Product, Date, Territory
+
 📊 Dashboards & Analysis
 Sales Dashboard
 Total Sales, Quantity Sold
@@ -23,12 +25,14 @@ Profit Dashboard
 Total Profit & Profit Margin
 Product-wise profitability
 Year-over-Year performance
+
 🖥️ KPI's Used
 Total Sales
 Total Profit
 Total Production cost
 Total Fright charges
 Total orders
+
 🧠 Key Insights
 Identified top-performing products and regions.
 Analyzed seasonal trends impacting sales and profit.
